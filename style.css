@@ -23,5 +23,49 @@ h1{
     background-repeat: no-repeat;
 }
 section{
-    height: 5000px;
+    height: 500px;
+    padding-bottom: 100px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato );
+    padding: 8px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.button2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato );
+    padding: 8px 35px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.img2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100px;
+    padding-bottom: 100px;
+}
+.kalu{
+    height: 80%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+}
+#id{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon, orange);
+    border-image-slice: 1;
+}
+#iv{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, skyblue, blue);
+    border-image-slice: 1;
+}
+.valobasa{
+    background-image: url(images/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
 }
