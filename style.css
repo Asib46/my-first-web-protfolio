@@ -1,0 +1,27 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+.orange{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.half-waidth{
+    width: 40%;
+    float: left;
+    margin: 3% ;
+    padding-left: 2%;
+}
+
+.half-waidth img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 5000px;
+}
